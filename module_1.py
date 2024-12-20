@@ -1,6 +1,7 @@
 
+# module_1.py
 
-
+# Пространство имен
 
 def test_function():
     def inner_function():
